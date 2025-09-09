@@ -131,10 +131,6 @@ El juego puede probarse directamente descargando el archivo compilado para Windo
 
 📥 **[Descargar Space Invaders 2D (.exe)](Space_Invaders.exe)**
 
-🔒 **Código fuente privado**
-El proyecto completo (código en C++, lógica de juego y assets) está en un **repositorio privado** por motivos de propiedad intelectual.
-
-**Acceso al código:** disponible bajo solicitud (puedo invitarte a ver el repo privado).
 
 ---
 
