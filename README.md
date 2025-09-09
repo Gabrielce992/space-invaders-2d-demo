@@ -9,10 +9,12 @@ El proyecto incluye **enemigos con patrones únicos, aliados acumulables que aco
 ---
 
 ## 🎥 Demo (capturas / gif)
+![Captura alternativa](assets/Captssura.JPG)
+![Captura alternativa](assets/Captsura.JPG)
+![Captura alternativa](assets/Captu2ra.JPG)
 
-![Demo corta](assets/spaceinvaders.gif)
-![Captura alternativa](assets/spaceinvaders_screen.JPG)
-
+![Captura alternativa](assets/Captusra.JPG)
+![Captura alternativa](assets/Casptura.JPG)
 ---
 
 ## ✨ Características clave
