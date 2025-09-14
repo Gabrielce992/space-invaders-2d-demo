@@ -147,8 +147,9 @@ El proyecto completo (código en C++, lógica de juego y assets) está en un **r
 
 ---
 
-## 📬 Contacto / CV
+## 📬 Contacto
+📧 gabrielce992@gmail.com  
 
-Si quieres revisar el código o una demo privada, escríbeme a: **[tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)**
+
 
 ---
